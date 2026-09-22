@@ -1,0 +1,6 @@
+student_name=("preeti")
+student_age=(17)
+student_height=(5.0)
+print(student_name)
+print(student_age)
+print(student_height)
